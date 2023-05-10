@@ -5,6 +5,8 @@
 * 1일차_2[공통 원소 구하기] | [코드](/Month5/2week/Day1/sumin/solve2.java) 
 * 2일차_1[최대매출] | [코드](/Month5/2week/Day2/sumin/solve1.java) 
 * 2일차_2[연속부분수열] | [코드](/Month5/2week/Day2/sumin/solve2.java) ⭐️
+* 3일차_1[연속된 자연수의 합] | [코드](/Month5/2week/Day3/sumin/solve1.java) 
+* 3일차_2[최대 길이 연속부분수열] | [코드](/Month5/2week/Day3/sumin/solve2.java) ⭐️
 
 ## 예은
 * 1일차_1[문제제목] | [코드](코드 주소)
