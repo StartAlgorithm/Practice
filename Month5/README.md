@@ -1,11 +1,13 @@
 ## 수민
+* 0일차_1[임시반장정하기] | [코드](/Month5/1week/Day0/sumin/solve1.java) ⭐️
+* 0일차_2[멘토링] | [코드](/Month5/1week/Day0/sumin/solve2.java) ⭐️
+* 1일차_1[두 배열 합치기] | [코드](/Month5/2week/Day1/sumin/solve1.java) ⭐️
+* 1일차_2[공통 원소 구하기] | [코드](/Month5/2week/Day1/sumin/solve2.java) 
+* 2일차_1[최대매출] | [코드](/Month5/2week/Day2/sumin/solve1.java) 
+* 2일차_2[연속부분수열] | [코드](/Month5/2week/Day2/sumin/solve2.java) ⭐️
+* 3일차_1[연속된 자연수의 합] | [코드](/Month5/2week/Day3/sumin/solve1.java) 
+* 3일차_2[최대 길이 연속부분수열] | [코드](/Month5/2week/Day3/sumin/solve2.java) ⭐️
 
-- 0일차\_1[임시반장정하기] | [코드](/Month5/1week/Day0/sumin/solve1.java) ⭐️
-- 0일차\_2[멘토링] | [코드](/Month5/1week/Day0/sumin/solve2.java) ⭐️
-- 1일차\_1[두 배열 합치기] | [코드](/Month5/2week/Day1/sumin/solve1.java) ⭐️
-- 1일차\_2[공통 원소 구하기] | [코드](/Month5/2week/Day1/sumin/solve2.java)
-- 2일차\_1[최대매출] | [코드](/Month5/2week/Day2/sumin/solve1.java)
-- 2일차\_2[연속부분수열] | [코드](/Month5/2week/Day2/sumin/solve2.java) ⭐️
 
 ## 예은
 
