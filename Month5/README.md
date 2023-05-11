@@ -8,21 +8,33 @@
 * 3일차_1[연속된 자연수의 합] | [코드](/Month5/2week/Day3/sumin/solve1.java) 
 * 3일차_2[최대 길이 연속부분수열] | [코드](/Month5/2week/Day3/sumin/solve2.java) ⭐️
 
+
 ## 예은
-* 1일차_1[문제제목] | [코드](코드 주소)
-* 1일차_2[문제제목] | [코드](코드 주소)
+
+- 1일차\_1[세수중최솟값] | [코드] (/Month5/2week/Day1/yeeun/solve1.html) ⭐️
+- 1일차\_2[삼각형판별하기] | [코드](/Month5/2week/Day1/yeeun/solve2.html) ⭐️
+- 2일차\_1[연필개수] | [코드](/Month5/2week/Day2/yeeun/solve1.html) ⭐️
+- 2일차\_2[1부터N까지의합] | [코드](/Month5/2week/Day2/yeeun/solve2.html) ⭐️
+- 3일차\_1[최소값구하기] | [코드](/Month5/2week/Day3/yeeun/solve1.html) ⭐️
+- 3일차\_2[(보충)내장함수로최솟값,최댓값구하기] | [코드](/Month5/2week/Day3/yeeun/solve2.html) ⭐️
+- 4일차\_1[홀수] | [코드](/Month5/2week/Day4/yeeun/solve1.html) ⭐️
+- 4일차\_2[10부제] | [코드](/Month5/2week/Day4/yeeun/solve2.html) ⭐️
 
 # 📌 새로 알게된 메소드
+
 ## 수민
-* arraylist에서 값 꺼내기 : list.get(인덱스);
-* list 정렬하기 : Arrays.sort(list);
+
+- arraylist에서 값 꺼내기 : list.get(인덱스);
+- list 정렬하기 : Arrays.sort(list);
 
 ## 예은
 
 # 📌 오답노트
+
 ## 수민
-* arraylist 람다 이용해서 출력하기 : list.forEach(s -> System.out.print(s + " "));
-* 투포인터 유형은 반드시 오름차순을 하고 진행해야한다. 
+- arraylist 람다 이용해서 출력하기 : list.forEach(s -> System.out.print(s + " "));
+- 투포인터 유형은 반드시 오름차순을 하고 진행해야한다.
 
 ## 예은
-
+- arraylist 람다 이용해서 출력하기 : list.forEach(s -> System.out.print(s + " "));
+- 투포인터 유형은 반드시 오름차순을 하고 진행해야한다.
