@@ -6,6 +6,10 @@
 * 2일차_1[최대매출] | [코드](/Month5/2week/Day2/sumin/solve1.java) 
 * 2일차_2[연속부분수열] | [코드](/Month5/2week/Day2/sumin/solve2.java) ⭐️
 
+
+* 4일차_1[학급 회장] | [코드](/Month5/2week/Day4/sumin/solve1.java) 
+* 4일차_2[아나그램] | [코드](/Month5/2week/Day4/sumin/solve2.java) 
+
 ## 예은
 * 1일차_1[문제제목] | [코드](코드 주소)
 * 1일차_2[문제제목] | [코드](코드 주소)
@@ -14,6 +18,9 @@
 ## 수민
 * arraylist에서 값 꺼내기 : list.get(인덱스);
 * list 정렬하기 : Arrays.sort(list);
+* map.getOrDefault(key, 0) : map에서 key값이 존재하면 해당 값이 나오고 존재하지 않으면 0이 나온다. 
+* map.keySet() : map에 있는 전체 Key들을 꺼낸다.
+* string.toCharArray() : 문자열을 한 글자씩 쪼개서 이를 char타입의 배열에  집어넣는다
 
 ## 예은
 
