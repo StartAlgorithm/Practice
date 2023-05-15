@@ -9,8 +9,10 @@
 * 3일차_2[최대 길이 연속부분수열] | [코드](/Month5/2week/Day3/sumin/solve2.java) ⭐️
 * 4일차_1[학급 회장] | [코드](/Month5/2week/Day4/sumin/solve1.java) 
 * 4일차_2[아나그램] | [코드](/Month5/2week/Day4/sumin/solve2.java) 
-* 5일차_1[매출액 종류] | [코드](/Month5/2week/Day4/sumin/solve1.java) 
-* 5일차_2[모든 아나그램 찾기] | [코드](/Month5/2week/Day4/sumin/solve2.java)⭐️ 
+* 5일차_1[매출액 종류] | [코드](/Month5/2week/Day5/sumin/solve1.java) 
+* 5일차_2[모든 아나그램 찾기] | [코드](/Month5/2week/Day5/sumin/solve2.java)⭐️ 
+* 7일차_1[K번째 큰 수] | [코드](/Month5/3week/Day7/sumin/solve1.java)⭐️
+* 7일차_2[올바른 괄호] | [코드](/Month5/3week/Day7/sumin/solve2.java) 
 
 ## 예은
 
@@ -34,6 +36,7 @@
 * map.equals(map2) : key와 value 모두를 비교하여 두 HashMap 객체가 동등한지 비교한다. 
 * StringBuilder 선언 : StringBuilder sb = new StringBuilder();
 * StringBuilder 에서 값 꺼내기 : charAt(인덱스)
+* TreeSet<Integer> Tset = new TreeSet<>(Collections.reverseOrder()); : 중복 방지 + 정렬
 ## 예은
 
 # 📌 오답노트
