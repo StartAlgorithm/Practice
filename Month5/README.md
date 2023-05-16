@@ -13,6 +13,7 @@
 * 5일차_2[모든 아나그램 찾기] | [코드](/Month5/2week/Day5/sumin/solve2.java)⭐️ 
 * 7일차_1[K번째 큰 수] | [코드](/Month5/3week/Day7/sumin/solve1.java)⭐️
 * 7일차_2[올바른 괄호] | [코드](/Month5/3week/Day7/sumin/solve2.java) 
+* 8일차[배열 돌리기 1] | [코드](/Month5/3week/Day8/sumin/solve.java)⭐️
 
 ## 예은
 
