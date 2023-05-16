@@ -33,7 +33,10 @@
 
 ## 수민
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 58035123e3610ba0a534b3a2a098400f41cd0528
 - arraylist에서 값 꺼내기 : list.get(인덱스);
 - list 정렬하기 : Arrays.sort(list);
 - map.getOrDefault(key, 0) : map에서 key값이 존재하면 해당 값이 나오고 존재하지 않으면 0이 나온다.
@@ -43,6 +46,7 @@
 - StringBuilder 선언 : StringBuilder sb = new StringBuilder();
 - StringBuilder 에서 값 꺼내기 : charAt(인덱스)
 
+<<<<<<< HEAD
 =======
 * arraylist에서 값 꺼내기 : list.get(인덱스);
 * list 정렬하기 : Arrays.sort(list);
@@ -54,6 +58,8 @@
 * StringBuilder 에서 값 꺼내기 : charAt(인덱스)
 * TreeSet<Integer> Tset = new TreeSet<>(Collections.reverseOrder()); : 중복 방지 + 정렬
 >>>>>>> 3a95f8c42c6826cce4e457217ee3ff1a25342e7c
+=======
+>>>>>>> 58035123e3610ba0a534b3a2a098400f41cd0528
 ## 예은
 
 # 📌 오답노트
