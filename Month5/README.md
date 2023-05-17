@@ -27,8 +27,11 @@
 - 4일차\_2[10부제] | [코드](/Month5/2week/Day4/yeeun/solve2.html) ⭐️
 - 5일차\_1[forEach,map,filter,reduce메서드작동원리] | [코드](/Month5/2week/Day5/yeeun/solve1.html) ⭐️
 - 5일차\_2[일곱난쟁이] | [코드](/Month5/2week/Day5/yeeun/solve2.html) ⭐️
-- 7일차\_1[A를#으로] | [코드](/Month5/2week/Day7/yeeun/solve1.html) ⭐️
-- 7일차\_2[문자찾기] | [코드](/Month5/2week/Day7/yeeun/solve2.html) ⭐️
+- 8일차\_1[A를#으로] | [코드](/Month5/2week/Day7/yeeun/solve1.html) ⭐️
+- 8일차\_2[문자찾기] | [코드](/Month5/2week/Day7/yeeun/solve2.html) ⭐️
+- 9일차\_1[대문자찾기] | [코드](/Month5/3week/Day9/yeeun/solve1.html) ⭐️
+- 9일차\_2[대문자로통일]] | [코드](/Month5/3week/Day9/yeeun/solve2.html) ⭐️
+
 
 # 📌 새로 알게된 메소드
 
