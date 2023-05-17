@@ -27,18 +27,22 @@
 - 4일차\_2[10부제] | [코드](/Month5/2week/Day4/yeeun/solve2.html) ⭐️
 - 5일차\_1[forEach,map,filter,reduce메서드작동원리] | [코드](/Month5/2week/Day5/yeeun/solve1.html) ⭐️
 - 5일차\_2[일곱난쟁이] | [코드](/Month5/2week/Day5/yeeun/solve2.html) ⭐️
+- 7일차\_1[A를#으로] | [코드](/Month5/2week/Day7/yeeun/solve1.html) ⭐️
+- 7일차\_2[문자찾기] | [코드](/Month5/2week/Day7/yeeun/solve2.html) ⭐️
 
 # 📌 새로 알게된 메소드
 
 ## 수민
-- arraylist에서 값 꺼내기 : list.get(인덱스);
-- list 정렬하기 : Arrays.sort(list);
-- map.getOrDefault(key, 0) : map에서 key값이 존재하면 해당 값이 나오고 존재하지 않으면 0이 나온다.
-- map.keySet() : map에 있는 전체 Key들을 꺼낸다.
-- string.toCharArray() : 문자열을 한 글자씩 쪼개서 이를 char타입의 배열에 집어넣는다
-- map.equals(map2) : key와 value 모두를 비교하여 두 HashMap 객체가 동등한지 비교한다.
-- StringBuilder 선언 : StringBuilder sb = new StringBuilder();
-- StringBuilder 에서 값 꺼내기 : charAt(인덱스)
+
+* arraylist에서 값 꺼내기 : list.get(인덱스);
+* list 정렬하기 : Arrays.sort(list);
+* map.getOrDefault(key, 0) : map에서 key값이 존재하면 해당 값이 나오고 존재하지 않으면 0이 나온다. 
+* map.keySet() : map에 있는 전체 Key들을 꺼낸다.
+* string.toCharArray() : 문자열을 한 글자씩 쪼개서 이를 char타입의 배열에  집어넣는다
+* map.equals(map2) : key와 value 모두를 비교하여 두 HashMap 객체가 동등한지 비교한다. 
+* StringBuilder 선언 : StringBuilder sb = new StringBuilder();
+* StringBuilder 에서 값 꺼내기 : charAt(인덱스)
+* TreeSet<Integer> Tset = new TreeSet<>(Collections.reverseOrder()); : 중복 방지 + 정렬
 
 ## 예은
 
