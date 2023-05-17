@@ -14,6 +14,7 @@
 - 7일차_1[K번째 큰 수] | [코드](/Month5/3week/Day7/sumin/solve1.java)⭐️
 - 7일차_2[올바른 괄호] | [코드](/Month5/3week/Day7/sumin/solve2.java) 
 - 8일차[배열 돌리기 1] | [코드](/Month5/3week/Day8/sumin/solve.java)⭐️
+- 9일차[배열 돌리기 2] | [코드](/Month5/3week/Day9/sumin/solve.java)⭐️
 
 ## 예은
 
