@@ -17,6 +17,8 @@
 - 9일차[배열 돌리기 2](https://www.acmicpc.net/problem/16927) | [코드](/Month5/3week/Day9/sumin/solve.java)⭐️
 - 10일차[괄호문자제거] | [코드](/Month5/3week/Day10/sumin/solve1.java)
 - 10일차[크레인 인형뽑기] | [코드](/Month5/3week/Day10/sumin/solve2.java)⭐️
+- 12일차[괄호문자제거] | [코드](/Month5/4week/Day12/sumin/solve1.java)
+- 12일차[크레인 인형뽑기] | [코드](/Month5/4week/Day12/sumin/solve2.java)⭐️
 
 ## 예은
 
