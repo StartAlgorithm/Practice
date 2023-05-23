@@ -33,9 +33,14 @@
 - 8일차\_1[A를#으로] | [코드](/Month5/2week/Day7/yeeun/solve1.html) ⭐️
 - 8일차\_2[문자찾기] | [코드](/Month5/2week/Day7/yeeun/solve2.html) ⭐️
 - 9일차\_1[대문자찾기] | [코드](/Month5/3week/Day9/yeeun/solve1.html) ⭐️
-- 9일차\_2[대문자로통일]] | [코드](/Month5/3week/Day9/yeeun/solve2.html) ⭐️
-- 10일차\_1[대소문자 변환] | [코드](/Month5/3week/Day10/yeeun/solve1.html) ⭐️
-- 10일차\_2[가장긴문자열]] | [코드](/Month5/3week/Day10/yeeun/solve2.html) ⭐️
+- 9일차\_2[대문자로통일] | [코드](/Month5/3week/Day9/yeeun/solve2.html) ⭐️
+- 10일차\_1[대소문자변환] | [코드](/Month5/3week/Day10/yeeun/solve1.html) ⭐️
+- 10일차\_2[가장긴문자열] | [코드](/Month5/3week/Day10/yeeun/solve2.html) ⭐️
+- 11일차\_1[중복단어제거] | [코드](/Month5/3week/Day11/yeeun/solve1.html) ⭐️
+- 11일차\_2[큰수출력하기] | [코드](/Month5/3week/Day11/yeeun/solve2.html) ⭐️
+- 12일차\_1[보이는학생] | [코드](/Month5/4week/Day12/yeeun/solve1.html) ⭐️
+- 12일차\_2[가위바위보] | [코드](/Month5/4week/Day12/yeeun/solve2.html) ⭐️
+
 
 
 # 📌 새로 알게된 메소드
