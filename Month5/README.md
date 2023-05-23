@@ -34,8 +34,10 @@
 - 8일차\_2[문자찾기] | [코드](/Month5/2week/Day7/yeeun/solve2.html) ⭐️
 - 9일차\_1[대문자찾기] | [코드](/Month5/3week/Day9/yeeun/solve1.html) ⭐️
 - 9일차\_2[대문자로통일]] | [코드](/Month5/3week/Day9/yeeun/solve2.html) ⭐️
-- 10일차\_1[대소문자 변환] | [코드](/Month5/3week/Day10/yeeun/solve1.html) ⭐️
+- 10일차\_1[대소문자변환] | [코드](/Month5/3week/Day10/yeeun/solve1.html) ⭐️
 - 10일차\_2[가장긴문자열]] | [코드](/Month5/3week/Day10/yeeun/solve2.html) ⭐️
+- 11일차\_1[가운데문자출력] | [코드](/Month5/3week/Day11/yeeun/solve1.html) ⭐️
+- 11일차\_2[중복문자제거(indexOf)] | [코드](/Month5/3week/Day11/yeeun/solve2.html) ⭐️
 
 
 # 📌 새로 알게된 메소드
