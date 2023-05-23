@@ -15,6 +15,8 @@
 - 7일차_2[올바른 괄호] | [코드](/Month5/3week/Day7/sumin/solve2.java) 
 - 8일차[배열 돌리기 1](https://www.acmicpc.net/problem/16926) | [코드](/Month5/3week/Day8/sumin/solve.java)⭐️
 - 9일차[배열 돌리기 2](https://www.acmicpc.net/problem/16927) | [코드](/Month5/3week/Day9/sumin/solve.java)⭐️
+- 10일차[괄호문자제거] | [코드](/Month5/3week/Day10/sumin/solve1.java)
+- 10일차[크레인 인형뽑기] | [코드](/Month5/3week/Day10/sumin/solve2.java)⭐️
 
 ## 예은
 
@@ -60,5 +62,6 @@
 - 투포인터 유형은 반드시 오름차순을 하고 진행해야한다.
 - StringTokenizer 대신, split(" ") 을 사용해도 된다.
   - String[] input = br.readLine().split(" ");
+- stack.peek() 은 해당 스택이 empty인지 확인해야한다. 
 
 ## 예은
