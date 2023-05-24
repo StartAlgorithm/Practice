@@ -39,6 +39,23 @@
 - 11일차\_2[큰수출력하기] | [코드](/Month5/3week/Day11/yeeun/solve2.html) ⭐️
 - 12일차\_1[보이는학생] | [코드](/Month5/4week/Day12/yeeun/solve1.html) ⭐️
 - 12일차\_2[가위바위보] | [코드](/Month5/4week/Day12/yeeun/solve2.html) ⭐️
+- 13일차\_1[점수계산] | [코드](/Month5/4week/Day13/yeeun/solve1.html) ⭐️
+- 13일차\_2[등수구하기] | [코드](/Month5/4week/Day13/yeeun/solve2.html) ⭐️
+
+
+# 📌 새로 알게된 메소드
+
+## 수민
+
+* arraylist에서 값 꺼내기 : list.get(인덱스);
+* list 정렬하기 : Arrays.sort(list);
+* map.getOrDefault(key, 0) : map에서 key값이 존재하면 해당 값이 나오고 존재하지 않으면 0이 나온다. 
+* map.keySet() : map에 있는 전체 Key들을 꺼낸다.
+* string.toCharArray() : 문자열을 한 글자씩 쪼개서 이를 char타입의 배열에  집어넣는다
+* map.equals(map2) : key와 value 모두를 비교하여 두 HashMap 객체가 동등한지 비교한다. 
+* StringBuilder 선언 : StringBuilder sb = new StringBuilder();
+* StringBuilder 에서 값 꺼내기 : charAt(인덱스)
+* TreeSet<Integer> Tset = new TreeSet<>(Collections.reverseOrder()); : 중복 방지 + 정렬
 
 ## 예은
 

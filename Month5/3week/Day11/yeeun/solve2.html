@@ -6,34 +6,35 @@
   </head>
 
   <body>
-    <!-- 중북문자제거 -->
-    <!-- 소문자로 된 한 깨의 문자열이 입력되면 중복된 제거하고 출력하는 프로그램을 작성하세요.
-        제거된 문자열의 각 문자는 원래 문자열의 순서를 유지합니다.
+    <!-- 큰 수 출력하기 -->
+    <!-- n(1<=N<=100)개의 정수를 입력받아, 자신의 바로 앞 수보다 큰 수만 출력하는 프로그램을 작성하세요. (첫 번째 수는 무조건 출력한다)
      -->
 
     <!--[입력 설명]-->
-    <!-- 첫 줄에 문자열이 입력됩니다. -->
+    <!-- 첫 줄에 자연수 N이 주어지고, 그 다음 줄에 N개의 정수가 입력된다. -->
 
     <!-- [출력 설명] -->
-    <!-- 첫 줄에 중복문자가 제거된 문자열을 출력합니다. -->
+    <!-- 자신의 바로 앞 수보다 큰 수만 한 줄로 출력한다. -->
 
     <!-- * 입력 예제 1 -->
-    <!-- ksekkset -->
+    <!-- 6
+    7 3 9 5 6 12 -->
 
     <!-- * 출력 예제 1 -->
-    <!-- kset -->
+    <!-- 7 9 6 12 -->
     <script>
       function solution(s) {
-          let answer="";
-          for (let i=0; i<s.length; i++) {
-            if(s.indexof(s[i]===i)) {
-              answer += s[i];
+          let answer=[];
+          answer.push(arr[0])
+          for(let i=1; i<arr.length; i++) {
+            if(arr[i]> arr[i-1]) {
+              answer.push(arr[i]);
             }
           }
           return answer;
       }
-      
-      console.log(solution("ksekkset"));
+      let str=[7, 3, 9, 5, 6, 12];
+      console.log(solution(str));
     </script>
   </body>
 </html>
