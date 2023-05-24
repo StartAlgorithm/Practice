@@ -39,6 +39,8 @@
 - 11일차\_2[큰수출력하기] | [코드](/Month5/3week/Day11/yeeun/solve2.html) ⭐️
 - 12일차\_1[보이는학생] | [코드](/Month5/4week/Day12/yeeun/solve1.html) ⭐️
 - 12일차\_2[가위바위보] | [코드](/Month5/4week/Day12/yeeun/solve2.html) ⭐️
+- 13일차\_1[점수계산] | [코드](/Month5/4week/Day13/yeeun/solve1.html) ⭐️
+- 13일차\_2[등수구하기] | [코드](/Month5/4week/Day13/yeeun/solve2.html) ⭐️
 
 ## 예은
 
