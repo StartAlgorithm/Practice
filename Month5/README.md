@@ -22,6 +22,10 @@
 - 13일차[공주구하기] | [코드](/Month5/4week/Day13/sumin/solve1.java)⭐️
 - 13일차[교육과정설계] | [코드](/Month5/4week/Day13/sumin/solve2.java)
 
+
+- 14일차[응급실] | [코드](/Month5/4week/Day14/sumin/solve1.java)⭐️
+- 14일차[선택정렬] | [코드](/Month5/4week/Day14/sumin/solve2.java)📌(답지와 풀이가 다름)
+
 ## 예은
 - 1일차\_1[세수중최솟값] | [코드] (/Month5/2week/Day1/yeeun/solve1.html) ⭐️
 - 1일차\_2[삼각형판별하기] | [코드](/Month5/2week/Day1/yeeun/solve2.html) ⭐️
@@ -68,7 +72,7 @@
 
 ## 수민
 
-- arraylist 람다 이용해서 출력하기 : list.forEach(s -> System.out.print(s + " "));
+- arraylist 람다 이용해서 출력하기 : list.forEach(s -> System.out.print(s + " "));⭐️
 - 투포인터 유형은 반드시 오름차순을 하고 진행해야한다.
 - StringTokenizer 대신, split(" ") 을 사용해도 된다.
   - String[] input = br.readLine().split(" ");
