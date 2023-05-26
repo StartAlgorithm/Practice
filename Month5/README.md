@@ -19,6 +19,8 @@
 - 10일차[크레인 인형뽑기] | [코드](/Month5/3week/Day10/sumin/solve2.java)⭐️
 - 12일차[괄호문자제거] | [코드](/Month5/4week/Day12/sumin/solve1.java)
 - 12일차[크레인 인형뽑기] | [코드](/Month5/4week/Day12/sumin/solve2.java)⭐️
+- 13일차[공주구하기] | [코드](/Month5/4week/Day13/sumin/solve1.java)⭐️
+- 13일차[교육과정설계] | [코드](/Month5/4week/Day13/sumin/solve2.java)
 
 ## 예은
 - 1일차\_1[세수중최솟값] | [코드] (/Month5/2week/Day1/yeeun/solve1.html) ⭐️
@@ -58,6 +60,7 @@
 * StringBuilder 선언 : StringBuilder sb = new StringBuilder();
 * StringBuilder 에서 값 꺼내기 : charAt(인덱스)
 * TreeSet<Integer> Tset = new TreeSet<>(Collections.reverseOrder()); : 중복 방지 + 정렬
+* Deque 선언 :  Deque<Character> goal = new ArrayDeque<>();
 
 ## 예은
 
